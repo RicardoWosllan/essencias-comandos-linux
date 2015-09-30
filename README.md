@@ -8,6 +8,4 @@ O linux hoje em dia não é muito utilizado, porém tem muitos iniciantes bobõe
 Autor Gabriel Lobato irá citar comandos de linux, porém se faltar o Abel completa. 
 Valeu galera e bons estudos. 
 #linuxnãoélixo #linux<3 #linuxéomelhor #queremosFPSnolinux #queremosMAISAPLICATIVOSnolinux
-Segue ai 
-Eidi199 
-s2
+
